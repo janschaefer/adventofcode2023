@@ -4,4 +4,5 @@ These are my solutions for Advent Of Code 2023. My plan is to solve every puzzle
 
 
 | Puzzle | Programming Language |
+| -------| ---------------------|
 | 1 | C |
