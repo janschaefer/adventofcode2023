@@ -5,8 +5,8 @@ These are my solutions for Advent Of Code 2023. My plan is to solve every puzzle
 
 | Puzzle | Programming Language | Status | 
 | -------| ---------------------|--------|
-| [1](1) | C | ⭐ |
-| 2 | C++ | |
+| [1](1) | C | ⭐⭐ |
+| [2](2) | C++ | ⭐⭐ |
 | 3 | C# | |
 | 4 | Clojure  | |
 | 5 | Dart | | 
