@@ -5,8 +5,8 @@ These are my solutions for Advent Of Code 2023. My plan is to solve every puzzle
 
 | Puzzle | Programming Language | Status | Replit |
 | -------| ---------------------|--------|--------|
-| [1](1) | C | ⭐⭐ | [https://replit.com/@janschaefer0/AdventOfCode202301](Replit) |
-| [2](2) | C++ | ⭐⭐ | [https://replit.com/@janschaefer0/AdventOfCode202302](Replit) |
+| [1](1) | C | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202301) |
+| [2](2) | C++ | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202302) |
 | 3 | C# | | |
 | 4 | Clojure  | | |
 | 5 | Dart | | |
