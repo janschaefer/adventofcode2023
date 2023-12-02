@@ -58,7 +58,7 @@ int get_calibration_value(const char *str) {
 
 }
 
-void solve1(const char *filename) {
+void solve(const char *filename) {
   FILE *file = fopen(filename, "r");
   int sum = 0;
   if (file) {
@@ -89,6 +89,7 @@ void solve2(const char *filename) {
 }
 
 int main(void) {
+ solve("input");
  solve2("input2");
  return 0;
 }
