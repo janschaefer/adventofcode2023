@@ -90,7 +90,7 @@ void solve2(const char *filename) {
 
 int main(void) {
  solve("input");
- solve2("input2");
+ solve2("input");
  return 0;
 }
 
