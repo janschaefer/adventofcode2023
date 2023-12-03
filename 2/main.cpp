@@ -128,5 +128,5 @@ int solve2(string filename) {
 
 int main() {
   cout << solve("input") << endl;
-  cout << solve2("input2") << endl;
+  cout << solve2("input") << endl;
 }
