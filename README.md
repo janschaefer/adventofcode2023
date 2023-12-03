@@ -7,7 +7,7 @@ These are my solutions for [Advent Of Code 2023](https://adventofcode.com/2023).
 | -------| ---------------------|--------|--------|
 | [1](1) | C | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202301) |
 | [2](2) | C++ | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202302) |
-| 3 | C# | | |
+| [3](3) | C# | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202303) |
 | 4 | Clojure  | | |
 | 5 | Dart | | |
 | 6 | Elixir | | |
