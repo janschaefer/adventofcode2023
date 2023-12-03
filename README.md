@@ -26,9 +26,14 @@ These are my solutions for [Advent Of Code 2023](https://adventofcode.com/2023).
 | 19 | PHP | | |
 | 20 | Python | | |
 | 21 | R | | |
-| 22 | Rust | | |
-| 23 | Scala | | |
-| 24 | Swift | | |
-| 25 | VisualBasic | | |
+| 22 | Ruby | | | 
+| 23 | Rust | | |
+| 24 | Scala | | |
+| 25 | Swift | | |
 
+## Additional Languages that I might choose from:
+
+| Programming Language | 
+| -------------------- |
+| VisualBasic | 
 
