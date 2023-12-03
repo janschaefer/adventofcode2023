@@ -6,7 +6,7 @@ These are my solutions for [Advent Of Code 2023](https://adventofcode.com/2023).
 | Puzzle | Programming Language | Status | Replit | ChatGPT |
 | -------| ---------------------|--------|--------|---------|
 | [1](1) | C | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202301) | [ChatGPT](https://chat.openai.com/share/c485697a-da04-4e53-aa73-4d4d9220a598) | 
-| [2](2) | C++ | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202302) | |
+| [2](2) | C++ | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202302) | - |
 | [3](3) | C# | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202303) | [ChatGPT](https://chat.openai.com/share/3769f2d7-a019-43e6-9454-100d7ac5e75d)|
 | 4 | Clojure  | | | |
 | 5 | Dart | | | |
