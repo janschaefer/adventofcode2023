@@ -5,12 +5,12 @@ These are my solutions for [Advent Of Code 2023](https://adventofcode.com/2023).
 
 | Puzzle | Programming Language | Status | Replit | ChatGPT |
 | -------| ---------------------|--------|--------|---------|
-| [1](1) | C | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202301) | [ChatGPT](https://chat.openai.com/share/c485697a-da04-4e53-aa73-4d4d9220a598) | 
-| [2](2) | C++ | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202302) | - |
-| [3](3) | C# | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202303) | [ChatGPT](https://chat.openai.com/share/3769f2d7-a019-43e6-9454-100d7ac5e75d)|
-| 4 | Clojure  | | | |
-| 5 | Dart | | | |
-| 6 | Elixir | | | |
+| [1](1) | [C](https://www.iso.org/standard/74528.html) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202301) | [ChatGPT](https://chat.openai.com/share/c485697a-da04-4e53-aa73-4d4d9220a598) | 
+| [2](2) | [C++](https://isocpp.org/) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202302) | - |
+| [3](3) | [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202303) | [ChatGPT](https://chat.openai.com/share/3769f2d7-a019-43e6-9454-100d7ac5e75d)|
+| 4 | [Clojure](https://clojure.org/)  | | | |
+| 5 | [Dart](https://dart.dev/) | | | |
+| 6 | [Elixir](https://elixir-lang.org/) | | | |
 | 7 | Elm | | | |
 | 8 | Erlang | | | |
 | 9 | F# | | | |
