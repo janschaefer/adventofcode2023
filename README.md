@@ -35,5 +35,7 @@ These are my solutions for [Advent Of Code 2023](https://adventofcode.com/2023).
 
 | Programming Language | 
 | -------------------- |
+| Objective-C |
+| TypeScript |
 | VisualBasic | 
 
