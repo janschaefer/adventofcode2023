@@ -1,6 +1,6 @@
 # Advent of Code 2023
 
-These are my solutions for [Advent Of Code 2023](https://adventofcode.com/2023). My plan is to solve every puzzle with a different programming language. I make use of ChatGPT to help me with the programming language, however, I will not use it directly to help me solve the problem. In addition, I make use of the Replit AI code completion with the same intention.
+These are my solutions for [Advent Of Code 2023](https://adventofcode.com/2023). My plan is to solve every puzzle with a different programming language, in alphabetical order. I make use of ChatGPT to help me with the programming language, however, I will not use it directly to help me solve the problem. In addition, I make use of the Replit AI code completion with the same intention.
 
 
 | Puzzle | Programming Language | Status | Replit | ChatGPT |
