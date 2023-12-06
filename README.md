@@ -11,31 +11,24 @@ These are my solutions for [Advent Of Code 2023](https://adventofcode.com/2023).
 | [4](4/main.clj) | [Clojure](https://clojure.org/)  | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202304) | [ChatGPT](https://chat.openai.com/share/22e255fd-13e4-44db-956a-b97fedf4d9d8) | Took me ages to deal with a cryptic EOF error and syntax is hard to read for my eyes, but otherwise it was quite fun to think in a functional style. This puzzle took me longer than any other one so-far, but the solution is the most elegant one ;-) |
 | [5](5/main.dart) | [Dart](https://dart.dev/) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202305) | [ChatGPT](https://chat.openai.com/share/fc28f96a-251b-4875-b53d-53703e52c835) | Dart feels a lot like Java, not sure why Dart exists at all, but maybe I had not really hit the interesting features of the language with the puzzle, like the concurrency model. I had no real issues with the language. My Replit ran out of AI credits ;-) |
 | [6](6/main.exs) | [Elixir](https://elixir-lang.org/) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202306) | [ChatGPT](https://chat.openai.com/share/f65534c0-6d1d-43e3-ae18-987eeb5bbcd1) | Beeing a purely functional language without loops I struggled a bit until I was able to create an iteration that stops at some point. Elixir has also a quite special syntax in some cases. |
-| 7 | Elm | | | | |
-| 8 | Erlang | | | | |
-| 9 | F# | | | | |
-| 10 | Go | | | | |
-| 11 | Haskell | | | | |
-| 12 | Java | | | | |
-| 13 | JavaScript | | | | |
-| 14 | Kotlin | | | | |
-| 15 | Lua | | | | |
-| 16 | OCaml | | | | |
-| 17 | Perl | | | | |
-| 18 | PHP | | | | |
-| 19 | Python | | | | |
-| 20 | R | | | | |
-| 21 | Ruby | | | | | 
-| 22 | Rust | | | | |
-| 23 | Scala | | | | |
-| 24 | Swift | | | | | 
-| 25 | TypeScript | | | | |
+| 7 | Erlang | | | | |
+| 8 | F# | | | | |
+| 9 | Go | | | | |
+| 10 | Haskell | | | | |
+| 11 | Java | | | | |
+| 12 | JavaScript | | | | |
+| 13 | Kotlin | | | | |
+| 14 | Lua | | | | |
+| 15 | OCaml | | | | |
+| 16 | Perl | | | | |
+| 17 | PHP | | | | |
+| 18 | Python | | | | |
+| 19 | R | | | | |
+| 20 | Ruby | | | | | 
+| 21 | Rust | | | | |
+| 22 | Scala | | | | |
+| 23 | Swift | | | | | 
+| 24 | TypeScript | | | | |
+| 25 | VisualBasic | | | | |
 
-## Additional Languages that I might choose from:
-
-| Programming Language | 
-| -------------------- |
-| Objective-C |
-| Groovy |
-| VisualBasic | 
 
