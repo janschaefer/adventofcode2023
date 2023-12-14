@@ -16,9 +16,9 @@ These are my solutions for [Advent Of Code 2023](https://adventofcode.com/2023).
 | [9](09/main.go) | [Go](https://go.dev/) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202309) | [ChatGPT](https://chat.openai.com/share/17a61954-9b3d-4d03-9cec-da0a7e805867) | Wow, Go has no map function? Seriously? Even ChatGPT was surprised :-). After all the functional languages before, I now needed to program imperatively again :-(. And the puzzle was suprisingly simple compared to the previous one, so that I was much faster done than in any other puzzle before. I was even sligthly disappointed that there was not big surprise in part 2 of the puzzle ;-) |
 | [10](10/Main.hs) | [Haskell](https://www.haskell.org/) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202310)| [ChatGPT](https://chat.openai.com/share/2e0d4a34-f98e-4c6d-b470-f0026426d1a0) | Haskell, the mother of all functional languages, is certainly one of the most interesting languages that exist, but also quite hard to learn. As I was already familiar with Haskell, it was not so difficult for me to use the language. I struggled more with the puzzle itself. Especially the second part was very hard if you don´t come up with the right idea. It took me way too long to solve and I needed help from ChatGPT to get to the idea. The resulting solution in Haskell is also very slow and takes over 10 minutes to finish. I am not sure why it is so slow, I assume the free Replit that I used, just has not enough RAM for Haskell. There is certainly also a more elegant solution than mine. |
 | [11](11/Main.java) | [Java](https://openjdk.org/) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202311) | [ChatGPT](https://chat.openai.com/share/1e1c9243-914a-4c2d-90bb-ce31aeda5698)| Nothing special to say from my side, as Java is the language I know best. However, Java is not the most elegant language for these kind of programming tasks. |
-| 12 | JavaScript | | | | |
-| 13 | Kotlin | | | | |
-| 14 | Lua | | | | |
+| 12 | [JavaScript](https://nodejs.org/) | ⭐ | | | Still working on part 2... |
+| [13](13/main.kt) | [Kotlin](https://kotlinlang.org/) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202313) | [ChatGPT](https://chat.openai.com/share/1d4b9019-54e0-4c72-9389-fc55ed5050e6) | |
+| [14](14/main.lua) | [Lua](https://www.lua.org/) | ⭐⭐ | [Replit](https://replit.com/@janschaefer0/AdventOfCode202314) | [ChatGPT](https://chat.openai.com/share/a4929234-62d8-45fc-8b49-22542464b63c) | |
 | 15 | OCaml | | | | |
 | 16 | Perl | | | | |
 | 17 | PHP | | | | |
